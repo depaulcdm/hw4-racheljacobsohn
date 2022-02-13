@@ -1,7 +1,7 @@
 # Instructions
 Rachel Jacobsohn (1968440)
 
-Acreen captures have been added to the images directory.
+Screen captures have been added to the images directory.
 
 **HINT:** Embed your screen captures as requested in the sections below. You can embed the image using the following syntax:
 
